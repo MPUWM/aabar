@@ -26,6 +26,6 @@ def download_json_files(url1, url2, file1_name="apis_keys.json", file2_name="mor
         print(f"Failed to download file 2: {e}")
 
 url1 = "https://link.storjshare.io/s/jvb3xajg5f5pwa7keajpaweop5bq/moroccoai/apis_keys.json?download=1"
-url2 = "https://link.storjshare.io/s/jw4xvz24thpalovpjnwrgqntq3ua/moroccoai/morocco-ai-2024-a2fad45fa0f6.json?download=1"
+url2 = "https://link.storjshare.io/s/jvoa25ndqo7645sbbatre66xwucq/moroccoai/morocco-ai-2024-a2fad45fa0f6.json?download=1"
 
 download_json_files(url1, url2)
