@@ -39,10 +39,11 @@ pytest_cache/
 # Output Files
 *.sqlite3
 *.db
-*.json
-
 # Binary Files
 bins/*
 
 # Logs
 logs/*
+
+node_modules/*
+node_modules

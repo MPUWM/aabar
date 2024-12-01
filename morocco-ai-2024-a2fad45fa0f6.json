@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "morocco-ai-2024",
+  "private_key_id": "a2fad45fa0f6207d6f5f18e7497009106c100abb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAjioKmqS3o+xw\nF2UsU8XVG+UeNloYwSBxJk8bKYcTEtOriXFnnHesbOc8nS9fvR/Jd4yWOCMornHO\n3hZ9Mb/TVei26XirZ7J6FokpKYtHDR+5WJQ3agFP+qQYs0ckFJbb1MJHPvpG1q2I\nsAm+ZdFWBHRX7XjgCd7ZRbL6s24OVP7gMWPl9aya60Wp7cofNRBwPzhbiQnXrN3o\nBDp99VtDwePCMH3qCq/ftAS2H4NvLQg9jYPAL9C5OQEm1rYPsMnXwmIo3O2XYfAF\niVBau5T0p/vDs3iDCcmie8SQq0PUxdmgX4HcPelOQSyzBriw6C83FM85YJu2i/4p\ncRs688fxAgMBAAECggEAC4Jz5jOy1NHqOBOt6yW2wDOX+7j+pFbRkZyF7fcK0+EJ\ni0n+iqrs8amGHja8YNn1JHMOPDcZeD0KdcsLR8B0LuBbtf3j8JrqLXywsNKC42RY\nGRlqV/BGKSRaL//HU34c5lb5UI47IjDYKUDHKaenCPU13xZFZgmGVdu3WbTlRzCY\nLRre+inVFgH9dGXQYimOWiukC5IRM/koEbOFsXgvPGeFWglK4qQ6xD84gnTNxPG/\nLp0tqe+d4KEkLNxU8Y7apwXWyK5nWumnWPnwNGlCSI/0z4/+lhlPAoqyDEXiyokT\nMSdj0gmNbNxW74b1KrBM8WSNNOLt0HXdlUHhijPI4QKBgQDptPQNCZf9jOIlB1+n\nvP/JU0GPmowIxM+LlP2wp2iOp9nrnU2s6zaYZT0miaOWF3HsjQG/5C5WfG9DxzFv\nAcemhfGcsxJ8yoRES54oMT03fS2OZCuQAg/JhQer6EqYNZlLGvzeGU58aA73iWzA\nkCdtF4CjlqK+dgKpGYaYJGJvzwKBgQDS7E3NYfoNK4wgCxOo65Q4Z8vCxXfmXUwQ\n9hSE+xxZpADy/REy2fED7d/QpUDV4GOHtlxCQwBxrqY5PA/P0Yo8NFUCjPpcrGLW\nmT8TtNACB/l3VoDiWtGVu+0WSQ6mtvhsvdqPR2Bi5TWehC8vQ2xvwhLH3D3GYC/i\n4v1pYM58PwKBgQC2HfqoRjeYr7ZyYIKb9d3lhulp/GbvVl7dSKdAh9Qkhox83MHw\n5AJRU2MJquw9Q9vVGDSq0ieB4cnaqVjORjbMf0g+chUQBch4Z+zBKU2o9fUQJuMD\nf3fJ8858mbG3Vt0z973hXRsaOwSexQpoLG1sx4nI8NO1U8TS/T8zQ/cpZQKBgBwz\n4pdSwXefWgYy1PciQNhl8JXjh4uy7+fYr5e0Z+8IgeP7uJ//Cj4HQYUJg6jVbxmH\nZcCqatXIj4tZn5efIge4y6EirptTpYeiSA/ffmy3GkE9vNAHarzFuwbez+m0z3Ti\n0eWUmqu+kDPY4uJD9qze21oD9fKfi+efiFjdy95LAoGBANOeAxcQSKh3cGe8aMLS\nKu6jso87mAuFjDt5kLVux2Zry1blk2b7Ejf0J/BbsHRFJEP0jytiynbZZxF7FoJK\nxMKJdFFy8mVhAnK/52qqb6isnRN/XijERiUhTHoBcFR6BBKVhAKjKDryVQRAZ2+I\nWvodpNw5tN6nJrOTGWB2mnsY\n-----END PRIVATE KEY-----\n",
+  "client_email": "aabar-471@morocco-ai-2024.iam.gserviceaccount.com",
+  "client_id": "117268004202590619462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aabar-471%40morocco-ai-2024.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
