@@ -2,7 +2,7 @@
 
 Aabar is a centralized web app designed to monitor and manage underground water resources. It simplifies the well drilling licensing process, ensures compliance with water regulations, and predicts water availability using advanced data analytics. The app aims to combat illegal drilling and promote sustainable water management. Its target market includes government agencies, agricultural businesses, environmental organizations, and research institutions focused on water conservation.
 
-Main features:
+# Main features:
 - Real-time monitoring of wells
 - A LLaMa-based chatbot fine-tuned on Moroccan water laws using RAG
 - A water depth predictor using Random Forest and Graph-based radius neighbors regression fact-checked by a hydro-geo engineer
